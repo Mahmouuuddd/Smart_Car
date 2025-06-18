@@ -59,6 +59,10 @@ Key Features and Explanations
 6. Safety Features
  - Automatic motor stop on shutdown
 
+
+*You must edit your catkin_ws It's too have to upload *
+
+The final.py code is the final code with the CV and Speech Recognition models
  - Parameterized thresholds for easy adjustment
 
  - Comprehensive error checking
